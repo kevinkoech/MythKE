@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265056430071",
+    "firebase_url": "https://myth-f9824.firebaseio.com",
+    "project_id": "myth-f9824",
+    "storage_bucket": "myth-f9824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265056430071:android:8c6e4b7b56db6a3305b0f2",
+        "android_client_info": {
+          "package_name": "ke.co.kevinkoech.myth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265056430071-njo1fqm06b6q6qqk0fvrtbo9lv506m8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.kevinkoech.myth",
+            "certificate_hash": "297edabe741e80475579d884a8c9b5e49e679b9e"
+          }
+        },
+        {
+          "client_id": "265056430071-qpf1ppai45nsr676v5n2s6uapujhdlc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB41wxWH8GdoMZ1xlzJ8n5e0uyQZZ9oE8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265056430071-qpf1ppai45nsr676v5n2s6uapujhdlc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
